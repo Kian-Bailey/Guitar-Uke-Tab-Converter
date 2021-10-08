@@ -12,3 +12,4 @@ When learning to play the ukulele, I noticed that ukulele tabs were much less co
 - The user can save these tabs as a .txt file, which can be named by the user.
 
 ## Please Note
+This program is not fully tested and there may be some minor issues that need to be fixed.
